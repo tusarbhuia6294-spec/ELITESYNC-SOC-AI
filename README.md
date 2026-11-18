@@ -1,4 +1,4 @@
-# ELITESYNC-SOC-AIELITESYNC SOC AI – Autonomous Threat Intelligence & Fraud Guard
+# ELITESYNC SOC AI – Autonomous Threat Intelligence & Fraud Guard
 
 SOA ITER Campus Security Demo
 
